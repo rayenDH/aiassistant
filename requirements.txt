@@ -170,7 +170,6 @@ python-dotenv==1.1.0
 python-json-logger==3.3.0
 pytz==2025.2
 PyWavelets==1.8.0
-pywin32
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.4.0
@@ -183,7 +182,6 @@ rfc3986-validator==0.1.1
 rpds-py==0.24.0
 rsa==4.7.2
 s3transfer==0.12.0
-scikit-learn==1.6.1
 scipy==1.10.1
 seaborn==0.12.2
 Send2Trash==1.8.3
